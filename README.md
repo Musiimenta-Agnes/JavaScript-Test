@@ -50,4 +50,4 @@
 
 
 
-## 5. 
+## 5. Both th event and map are used to display the functions to be executed. 
