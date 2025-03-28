@@ -21,7 +21,7 @@
 ## 6. A
 
 
-## 7. B 
+## 7. A 
 
 
 ## 8. A
@@ -50,4 +50,4 @@
 
 
 
-## 5. 
+## 5. Both forEch and map methods are used for declaring the function to be executed.
