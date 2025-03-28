@@ -40,17 +40,9 @@ function insertNewRcord(data){
     var cell3 = newRow.insertCell(2);
         cell3.innerHTML = data.bucketPrice;
     var cell4 = newRow.insertCell(3);
-        cell4.innerHTML = `<button onClick="onEdit(this)">Edit</button> <button onClick="onDelete(this)">Delete</button>`
+        cell4.innerHTML = `<button onClick="onDelete(this)">Delete</button>`
   
     
-}
-
-//Edit the data
-function onEdit(td){
-    selectedRow = td.parentElement.parentElement;
-    document.getElementById('bucketCode').value = selectedRow.cells[0].innerHTML;
-    document.getElementById('name').value = selectedRow.cells[1].innerHTML;
-    document.getElementById('bucketPrice').value = selectedRow.cells[2].innerHTML;
 }
 
 
