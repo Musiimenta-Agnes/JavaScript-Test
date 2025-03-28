@@ -45,7 +45,7 @@
 
 
 
-## 4.  <button  onclick="document.getElementById('demo').innerHTML = Date()">The time of the day is:</button>
+## 4.  button  onclick="document.getElementById('demo').innerHTML = Date()">  The time of the day is: button
 ##     This explains the event of the time of the day when the button is clicked.
 
 
