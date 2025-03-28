@@ -41,7 +41,7 @@
 
 
 
-## 3. == is used for a weak detecting while === is for a strict detecting.
+## 3. == is used for a weak testing for only the equality of the value while === is for restricted testing for equality of both the value and the data type.
 
 
 
