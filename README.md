@@ -21,7 +21,7 @@
 ## 6. A
 
 
-## 7. B 
+## 7. A 
 
 
 ## 8. A
@@ -41,7 +41,7 @@
 
 
 
-## 3. == is used for a weak detecting while === is for a strict detecting.
+## 3.  == is used for a weak testing for only the equality of the value while === is for restricted testing for equality of both the value and the data type.
 
 
 
@@ -50,4 +50,4 @@
 
 
 
-## 5. 
+## 5. Both forEch and map methods are used for declaring the function to be executed.
